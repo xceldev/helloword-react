@@ -1,10 +1,11 @@
 import "./styles.css";
-import { Navbar } from "./components/Navbar";
 
 export default function App() {
   return (
     <>
-      <Navbar />
+       
+      <h1 className="">Hello World</h11>
+    
     </>
   );
 }
