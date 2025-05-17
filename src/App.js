@@ -3,9 +3,7 @@ import "./styles.css";
 export default function App() {
   return (
     <>
-       
-      <h1 className="">Hello World</h11>
-    
+      <h1 className="">Hello World</h1>
     </>
   );
 }
